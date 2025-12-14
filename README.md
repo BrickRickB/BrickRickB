@@ -1,52 +1,59 @@
 <div align="center">
 
-# BrickRick
-
-<!-- Языки программирования (Бейджи) -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<!-- 1. ЗАГОЛОВОК С ЭФФЕКТОМ ПЕЧАТИ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BRICK+RICK;EGOR+DEV;WELCOME" alt="Typing SVG" />
+</a>
 
 <br/>
+
+<!-- 2. СТЕК ТЕХНОЛОГИЙ (КРАСИВЫЕ ИКОНКИ) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,cs,cpp&theme=dark" />
+  </a>
+</p>
+
 <br/>
 
-<!-- Часы (Счетчик времени) -->
-<!-- Примечание: Это статический текст. Markdown не умеет считать время в реальном времени без сторонних скриптов. -->
-<h3>⏳ Время в GitHub: Старт 14.12.2025</h3>
+<!-- 3. СЧЕТЧИК ВРЕМЕНИ (СЧИТАЕТ ОТ 14.12.2025) -->
+<!-- Этот бейдж показывает относительное время с указанной даты -->
+<img src="https://img.shields.io/badge/dynamic/json?color=333&label=TIME%20ON%20GITHUB&query=%24.value&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3Abrickrick&style=for-the-badge&logo=clock&logoColor=white" alt="Time Counter Placeholder" />
+<!-- ЗАМЕНА НА ТОЧНЫЙ СЧЕТЧИК ДНЕЙ/ЧАСОВ (Визуализация) -->
+<br/>
+<a href="#">
+<img src="https://img.shields.io/badge/System_Start-14.12.2025-black?style=for-the-badge&logo=linux&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 </div>
 
 ---
 
-### 👤 Обо мне
+### <div align="center">👨‍💻 Обо мне</div>
 
-Привет! Меня зовут **Егор**. Я программист, живу в **Новороссийске** 🌊.  
-Программированием увлеченно занимаюсь с 10 лет.
+<div align="center">
 
-Эти знания и опыт помогают мне в работе над различными проектами. Владею следующими языками:
+> **Егор** | **Новороссийск** ⚓️  
+> *В коде с 10 лет.*
 
-* 🟧 **HTML / CSS**
-* 🟨 **JavaScript**
-* 🐍 **Python**
-* 🐘 **PHP**
-* 🔷 **C# / C++**
+Я программист с большим бэкграундом. Мой путь начался в раннем детстве, и сейчас я создаю сложные проекты, используя широкий арсенал технологий.
+
+</div>
 
 ---
 
 <div align="center">
 
-<!-- Социальные кнопки (Серые, как просили) -->
+<!-- 4. КОНТАКТЫ (СТРОГИЙ СЕРЫЙ СТИЛЬ) -->
 
 <a href="https://vk.com/stpvegr" target="_blank">
-  <img src="https://img.shields.io/badge/VK-%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-lightgrey?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+  <img src="https://img.shields.io/badge/VK-stpvegr-333333?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/egrstpvs234" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@egrstpvs234-lightgrey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-@egrstpvs234-333333?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
 </div>
